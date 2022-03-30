@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="50" tileheight="50" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="grave.tsx"/>
+ <tileset firstgid="2" source="grass.tsx"/>
+ <tileset firstgid="102" source="grave.tsx"/>
+ <layer id="1" name="background" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt0TN6hAEYhdH/mdiZ2JrYtm3b3P8WcpYwX5Mqxene6t5UkiQ55JJHPgUUUkQxJaSy7Eopo5wKKklTRTU11Aa6OuppoJEmmmmhlTbaA10HnXSRoZseeumjn4FAN8gQw4wwyhjjTDDJVKDLduf/P/7mj2lmmGWOeRZYZIllVgLdKmuss8EmW2yzwy57gW6fAw454pgTTjnjnItAd8kV19xwyx33PPDIU6B75oVX3njng0+++OYn0P0C//Aylw==
+  </data>
+ </layer>
+ <layer id="2" name="background2" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOpBGpbhQMb0DNdDCapkYBDBCbFgDCtQGZ
+  </data>
+ </layer>
+</map>
